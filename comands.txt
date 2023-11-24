@@ -1,0 +1,5 @@
+laravel new my-app
+php artisan serve
+php artisan route:list
+php artisan make:controller NameController
+php artisan make:controller NameController --api
